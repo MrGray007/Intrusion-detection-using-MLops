@@ -173,7 +173,7 @@ To get Mlflow link type below url in run_pipeline to get Link
     Client().active_stack.experiment_tracker.get_tracking_uri()
   ```
 # 👍The Solution
-
+**Connect with me Through Linkedin :https://www.linkedin.com/in/mahesh-r-6b33bb242/**
 
 * Used MLflow_model_deployer to deploy the model:
 
