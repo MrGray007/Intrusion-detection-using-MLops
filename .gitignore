@@ -1,0 +1,10 @@
+venvv/
+__pycache__/
+dataset/df_500k.csv/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+*.sqlite3
+.ipynb_checkpoints
